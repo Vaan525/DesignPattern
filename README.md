@@ -10,7 +10,7 @@
   + 인터넷 링크
   
   [디자인 패턴 정리] gmlwjd9405.github.io/2018/07/06/design-pattern.html
-  많이 쓰이는 패턴 정리 : https://happysuzy.tistory.com/36
+  [많이 쓰이는 패턴 정리] : https://happysuzy.tistory.com/36
   
   
   + 참고 문헌
