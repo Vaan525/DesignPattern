@@ -8,11 +8,11 @@
     
 ### 참고 자료
   + 인터넷 링크
-  ```
+  
   Link: [디자인 패턴 정리][googlelink]
   [googlelink]: https://gmlwjd9405.github.io/2018/07/06/design-pattern.html "Go google"
   많이 쓰이는 패턴 정리 : https://happysuzy.tistory.com/36
-  ```
+  
   
   + 참고 문헌
   ```
