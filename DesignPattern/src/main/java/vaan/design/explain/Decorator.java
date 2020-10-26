@@ -1,6 +1,6 @@
-package vaan.design;
+package vaan.design.explain;
 
-public class Builder {
+public class Decorator {
 
 	public static void main(String[] args) {
 		

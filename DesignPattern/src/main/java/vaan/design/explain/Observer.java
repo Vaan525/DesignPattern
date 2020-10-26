@@ -1,6 +1,6 @@
-package vaan.design;
+package vaan.design.explain;
 
-public class Singleton {
+public class Observer {
 
 	public static void main(String[] args) {
 		

@@ -1,4 +1,4 @@
-package vaan.design;
+package vaan.design.practice;
 
 public class AbstractFactory {
 
