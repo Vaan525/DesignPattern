@@ -8,6 +8,9 @@
 ### 자료 위치
 
  - https://github.com/Vaan525/DesignPattern/tree/main/DesignPattern/src/main/java/vaan/design
+ 
+ + 공부한 패턴들의 설명은 Explain폴더
+ + 실습해본 디자인패턴들의 코드는 하단 디자인 패턴명 폴더
     
 ### 참고 자료
   + 인터넷 링크
