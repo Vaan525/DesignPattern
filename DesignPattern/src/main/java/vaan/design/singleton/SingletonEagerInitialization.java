@@ -9,8 +9,4 @@ public class SingletonEagerInitialization {
 	public static SingletonEagerInitialization getInstance() {
 		return uniqueInstance;
 	}
-	
-	
-	
-	
 }
