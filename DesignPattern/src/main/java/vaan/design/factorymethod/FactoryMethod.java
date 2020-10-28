@@ -1,4 +1,4 @@
-package vaan.design.practice;
+package vaan.design.factorymethod;
 
 public class FactoryMethod {
 
